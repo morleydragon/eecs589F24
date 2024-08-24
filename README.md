@@ -84,9 +84,9 @@ The latest reading list is [linked here](ReadingList.md).
 |#| Date  | Topic and Readings                       | Presenter|
 |--|------|----------------------------------------|---------| 
 |1 | Aug 26      | **Background:Internet philosophy**                 | Prof. Mao | 
-|2| Aug 28 | Software defined Networks      |Prof. Mao | 
+|2| Aug 28 |  Review of the networking basics      |Prof. Mao | 
 || Sep 2 |  Labor Day (holiday)       | | 
-|3| Sep 4 |  Review of the networking basics  |Xueshen | 
+|3| Sep 4 | Software defined Networks  |Xueshen | 
 |4| Sep 9 |  AI/ML for networks           |Prof. Mao | 
 |5| Sep 11 | AI/ML for networks                            |  | 
 |6| Sep 16 |  Networking for AI/ML                          |  | 
