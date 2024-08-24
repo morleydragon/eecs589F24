@@ -87,8 +87,8 @@ The latest reading list is [linked here](ReadingList.md).
 |2| Aug 28 |  Review of the networking basics      |Prof. Mao | 
 || Sep 2 |  Labor Day (holiday)       | | 
 |3| Sep 4 | Software defined Networks  |Xueshen | 
-|4| Sep 9 |  AI/ML for networks           |Prof. Mao | 
-|5| Sep 11 | AI/ML for networks                            |  | 
+|4| Sep 9 |  AI/ML for networks, LLM for security           |Prof. Mao | 
+|5| Sep 11 | AI/ML for networks,  LLM for security               |  | 
 |6| Sep 16 |  Networking for AI/ML                          |  | 
 |7| Sep 18 |  Networking for AI/ML                               |  | 
 |8| Sep 23 |  Network virtualization                               |  | 
@@ -185,4 +185,4 @@ You must meet the following milestones (unless otherwise specified in future ann
 
 
 #### Acknowledgement
-This course syllabus is heavily influenced by prior offerings of EECS589 [EECS 589](https://github.com/forkjoseph/EECS589).
+This course syllabus is influenced by prior offerings of EECS589 [EECS 589](https://github.com/forkjoseph/EECS589).
