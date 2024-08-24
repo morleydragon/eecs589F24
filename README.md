@@ -72,13 +72,14 @@ focusing primarily on the top networking and systems conferences, e.g., SIGCOMM,
 
 I also recommend supplemental reading of well recognized papers from [SIGCOMM Test-of-Time papers](https://www.sigcomm.org/awards/test-of-time-paper-award).
 
-## Tentative Schedule and Reading List
+## Proposed Schedule and Reading List
 Papers to be selected from but not limited to:
 * [SIGCOMM'24](https://conferences.sigcomm.org/sigcomm/2024/program/)
 * [MobiCom'23](https://sigmobile.org/mobicom/2023/accepted.html)
 * [NSDI'24](https://www.usenix.org/conference/nsdi24/technical-sessions)
 * [Usenix Security'24](https://www.usenix.org/conference/usenixsecurity24/technical-sessions)
 
+The latest reading list is [linked here](ReadingList.md).
 
 |#| Date  | Topic and Readings                       | Presenter|
 |--|------|----------------------------------------|---------| 
