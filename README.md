@@ -80,8 +80,9 @@ Papers to be selected from but not limited to:
 * [Usenix Security'24](https://www.usenix.org/conference/usenixsecurity24/technical-sessions)
 
 
-|Lecture no. | Date  | Topic and Readings                       | Presenter|
-|1 |       | **Background:Internet philosophy**                 | Prof. Mao | 
+|#| Date  | Topic and Readings                       | Presenter|
+|--|------|----------------------------------------|---------| 
+|1 | Aug 26      | **Background:Internet philosophy**                 | Prof. Mao | 
 |2| Aug 28 | Software defined Networks      |Prof. Mao | 
 || Sep 2 |  Labor Day (holiday)       | | 
 |3| Sep 4 |  Review of the networking basics  |Xueshen | 
