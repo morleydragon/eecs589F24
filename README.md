@@ -2,7 +2,6 @@
 EECS589: Advanced Computer Networks (Fall 2024)
 
 ## Administrivia
-* Catalog Number: 33534
 * Lectures: 3150 DOW, MW 9-10:30AM
 * Discussion: 1008FXB, F 1030-1130AM
 
@@ -17,6 +16,7 @@ EECS589: Advanced Computer Networks (Fall 2024)
 
 ALL communication regarding this course must be via [Piazza](https://piazza.com/umich/fall2024/cse589001fa2024/home). 
 This includes questions, discussions, announcements, as well as private messages.
+Sign up for the course Piazza [here](https://piazza.com/umich/fall2024/cse589001fa2024).
 
 Presentation slides and paper summaries should be emailed to uploaded to [Canvas](https://umich.instructure.com/courses/707608).
 
@@ -74,49 +74,43 @@ I also recommend supplemental reading of well recognized papers from [SIGCOMM Te
 
 ## Tentative Schedule and Reading List
 Papers to be selected from but not limited to:
-* [SIGCOMM'24](https://conferences.sigcomm.org/sigcomm/2018/program.html)
-* [MobiCom'24](https://sigmobile.org/mobicom/2018/program.php)
-* [NSDI'24](https://www.usenix.org/conference/nsdi19/technical-sessions)
-* [Usenix Security'24](https://www.sigmobile.org/mobicom/2019/accepted.php)
+* [SIGCOMM'24](https://conferences.sigcomm.org/sigcomm/2024/program/)
+* [MobiCom'23](https://sigmobile.org/mobicom/2023/accepted.html)
+* [NSDI'24](https://www.usenix.org/conference/nsdi24/technical-sessions)
+* [Usenix Security'24](https://www.usenix.org/conference/usenixsecurity24/technical-sessions)
 
 
-
-
-
-
-
-| Date  | Readings                       | Presenter|
-| ------| -------------------------------| ---------| 
-| Aug 26 | Introduction                   | Prof. Mao | 
-|       | **Background**                 | Prof. Mao | 
-| Aug 28 |                                |Prof. Mao | 
-| Sep 4 |                                |Prof. Mao | 
-| Sep 2 |                                |Prof. Mao | 
-| Sep 9 |                                |Prof. Mao | 
-| Sep 11 |                                |Prof. Mao | 
-| Sep 16 |                                |Prof. Mao | 
-| Sep 18 |                                |Prof. Mao | 
-| Sep 23 |                                |Prof. Mao | 
-| Sep 25 |                                |Prof. Mao | 
-| Sep 30 |                                |Prof. Mao | 
-| Oct 2 |                                |Prof. Mao | 
-| Oct 7 |                                |Prof. Mao | 
-| Oct 9 |                                |Prof. Mao | 
-| Oct 14 |                                |Prof. Mao | 
-| Oct 16 |                                |Prof. Mao | 
-| Oct 21 |                                |Prof. Mao | 
-| Oct 28 |                                |Prof. Mao | 
-| Oct 30 |                                |Prof. Mao | 
-| Nov 4 |                                |Prof. Mao | 
-| Nov 6 |                                |Prof. Mao | 
-| Nov 11 |                                |Prof. Mao | 
-| Nov 13 |                                |Prof. Mao | 
-| Nov 18 |                                |Prof. Mao | 
-| Nov 20 |                                |Prof. Mao | 
-| Nov 25 |                                |Prof. Mao | 
-| Dec 2 |                                |Prof. Mao | 
-| Dec 4 |                                |Prof. Mao | 
-| Dec 9 |                                |Prof. Mao | 
+|Lecture no. | Date  | Topic and Readings                       | Presenter|
+|1 |       | **Background:Internet philosophy**                 | Prof. Mao | 
+|2| Aug 28 | Software defined Networks      |Prof. Mao | 
+|| Sep 2 |  Labor Day (holiday)       | | 
+|3| Sep 4 |  Review of the networking basics  |Xueshen | 
+|4| Sep 9 |  AI/ML for networks           |Prof. Mao | 
+|5| Sep 11 | AI/ML for networks                            |  | 
+|6| Sep 16 |  Networking for AI/ML                          |  | 
+|7| Sep 18 |  Networking for AI/ML                               |  | 
+|8| Sep 23 |  Network virtualization                               |  | 
+|9| Sep 25 | Mobile / Wireless networks                              |    | 
+|10| Sep 30 | Mobile / Wireless networks                              |    | 
+|11| Oct 2 |  Network security / privacy                              |    | 
+|12| Oct 7 |   Network security / privacy                               |    | 
+|13| Oct 9 |    Network security / privacy                              |    | 
+|| Oct 14 |  Fall study break        |    | 
+|14| Oct 16 |  Network measurement                              |    | 
+|15| Oct 21 |  Network measurement                              |    | 
+|16| Oct 28 |  Data center networking                              |    | 
+|17| Oct 30 |  Data center networking                              |    | 
+|18| Nov 4 |   Network QoS                  |    | 
+|19| Nov 6 |   Programming networks         |    | 
+|20| Nov 11 |  Wireless sensing            |    | 
+|21| Nov 13 |  Modeling networks               |    | 
+|22| Nov 18 |  Cloud systems              |    | 
+|23| Nov 20 |  Network applications, e.g., vehicular networks                              |    | 
+|24| Nov 25 |  Traffic engineering                              |    | 
+|25| Nov 25 |     Thanksgiving break         | |
+|26| Dec 2 |   Verification / validation      |    | 
+|27| Dec 4 |  Final project presentations   |Students | 
+|28| Dec 9 |  Final project presentations   |Students | 
 
 
 ## Grading
