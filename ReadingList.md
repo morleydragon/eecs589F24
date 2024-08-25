@@ -83,8 +83,8 @@ SIGCOMM 2022.
 * [Cloudy with a Chance of Cyberattacks: Dangling Resources Abuse on Cloud Platforms](https://www.usenix.org/conference/nsdi24/presentation/friess), NSDI 2024.
 
 ### Network applications, e.g., vehicular networks 
-*  
-* 
+*  [VRF: Vehicle Road-side Point Cloud Fusion](https://dl.acm.org/doi/pdf/10.1145/3643832.3661874), MobiSys 2024.
+*  [Invisible Optical Adversarial Stripes on Traffic Sign against Autonomous Vehicles](https://tanrui.github.io/pub/GhostStripe-MobiSys.pdf), MobiSys 2024.
 
 ### Traffic engineering
 * [MegaTE: Extending WAN Traffic Engineering to Millions of Endpoints in Virtualized Cloud](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final406-acmpaginated.pdf), SIGCOMM 2024. [Talk](https://www.youtube.com/watch?v=bn6DiXWH-3g).
