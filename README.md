@@ -185,4 +185,4 @@ You must meet the following milestones (unless otherwise specified in future ann
 
 
 #### Acknowledgement
-This course syllabus is influenced by [prior offerings]((https://github.com/forkjoseph/EECS589) of EECS589.
+This course syllabus is influenced by [prior offerings](https://github.com/forkjoseph/EECS589) of EECS589.
