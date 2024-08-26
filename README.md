@@ -134,7 +134,7 @@ Each student will be assigned to present a pair of papers at least twice
 throughout the semester. 
 Presentations should last **at most 45 minutes** without interruption.
 However, presenters should expect questions and interruptions throughout. 
-[comment[ [You should sign-up for the desired presentation date here](https://goo.gl/forms/sk0VOeKYxtfscjVy2).
+A sign-up form will be made available soon.
 
 In the presentation, you should:
 
@@ -158,7 +158,6 @@ should address the following four questions in about a paragraph each.
 * What is one (or more) drawback or limitation of the proposal, and how will you improve it?
 
 Reviews must be submitted on [Canvuas](https://umich.instructure.com/courses/707608).
-[comment] The list of papers can be found at [here](https://eecs589.eecs.umich.edu/search?q=) (note that you must sign up with umich.edu email). 
 
 **Late reviews will not be counted.** 
 You should use [this template](SummaryTemplate.md) for writing your summary.
