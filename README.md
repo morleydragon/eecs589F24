@@ -125,9 +125,7 @@ Students who satisfactorily complete all assigned work will receive a B+ or bett
 
 ### Groups
 All activities of this course will be performed in **groups of 2-3 students**.
-
-[comment] [Declare your group's membership and paper preferences](https://goo.gl/forms/VuAkrqQqkSKgZEUn2) by September 9, 2024.
-[comment] After this date, we will form groups from the remaining students.
+Please use Piazza to form groups.
 
 ### Paper Presentation
 The course will be conducted as a seminar. 
