@@ -86,7 +86,7 @@ The latest reading list is [linked here](ReadingList.md).
 |1 | Aug 26      | **Background:Internet philosophy**                 | Prof. Mao | 
 |2| Aug 28 |  Review of the networking basics      |Prof. Mao | 
 || Sep 2 |  Labor Day (holiday)       | | 
-|3| Sep 4 | Software defined Networks  |Xueshen | 
+|3| Sep 4 | Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))  |Xueshen | 
 |4| Sep 9 |  AI/ML for networks, LLM for security           |Prof. Mao | 
 |5| Sep 11 | AI/ML for networks,  LLM for security               |  | 
 |6| Sep 16 |  Networking for AI/ML                          |  | 
