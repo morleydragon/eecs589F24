@@ -19,6 +19,7 @@ This includes questions, discussions, announcements, as well as private messages
 Sign up for the course Piazza [here](https://piazza.com/umich/fall2024/cse589001fa2024).
 
 Presentation slides and paper summaries should be emailed to uploaded to [Canvas](https://umich.instructure.com/courses/707608).
+**Paper summaries are due before the lecture (i.e., before 9am Mondays and Wednesdays) to be done individually.**  
 
 ## Course Description
 This is a graduate level course on computer networking focusing on advanced
