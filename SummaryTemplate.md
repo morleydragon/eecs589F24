@@ -13,4 +13,4 @@ STUDENT1\_NAME (UNIQNAME)
 ## Limitations and Possible Improvements
 
 
-## Summary of Class Discussion
+## Summary of Class Discussion (This is only for the presenters who will update this after the lecture discussions).
