@@ -19,6 +19,7 @@ This includes questions, discussions, announcements, as well as private messages
 Sign up for the course Piazza [here](https://piazza.com/umich/fall2024/cse589001fa2024).
 
 Presentation slides and paper summaries should be emailed to uploaded to [Canvas](https://umich.instructure.com/courses/707608).
+
 **Paper summaries are due before the lecture (i.e., before 9am Mondays and Wednesdays) to be done individually.**  
 
 ## Course Description
@@ -56,14 +57,15 @@ ideally can be deployed.
 The lecture will be conducted in an interactive
 fashion. The instructors will lead the discussion for the first few meetings of the class, but
 everyone must participate. For the remainder of the class, each
-student (can be in groups) will present a paper. Students will read and review
+student will present a paper. Students will read and review
 papers before class.  You will be graded on reviews; class discussions; and
-project scope, effort, and results.
+project scope, effort, and results.  It is critical that you participate in the class discussions to get more out of the class.
 
 ### Prerequisites
 Students are expected to have good programming skills and must have taken at
 least one undergraduate-level systems-related course (from operating systems,
-databases, distributed systems, and networking).
+databases, distributed systems, and networking).  However, for graduate students, we expect that 
+the students will be able to pick up the required background.  Please come to talk to the instructor if you are concerned.
 
 ### Textbook
 This course has NO textbook. The class will select and discuss recent papers from the networking literature
@@ -130,9 +132,10 @@ Please use Piazza to form groups.
 
 ### Paper Presentation
 The course will be conducted as a seminar. 
-Two students will present in each class.
-Each student will be assigned to present a pair of papers at least twice
+One or two students will present in each class depending on the paper assigned.
+Each student will be assigned to present a pair of papers once or twice
 throughout the semester. 
+
 Presentations should last **at most 45 minutes** without interruption.
 However, presenters should expect questions and interruptions throughout. 
 A sign-up form will be made available soon.
@@ -146,12 +149,13 @@ In the presentation, you should:
 * Raise questions throughout the presentation to generate discussion.
 
 ### Paper Summaries
-Every student is required to review the two papers assigned for each class.
+Every student is required to review one to two papers assigned for each class.
 One of these reviews can be brief, summarizing the main contributions of the paper and one critical assessment (e.g., how the paper could be improved, or compares to related work, or advances the state of the art).
 This brief review should be about a paragraph in length. 
 
 The second review should be up to one page long, explaining in detail the contributions and context of the paper.  This review
 should address the following four questions in about a paragraph each.
+**(If there is only one paper assigned for review, use the detailed format for the review.)**
 
 * What is the problem addressed by the paper, and why is this problem important?
 * What is the hypothesis of the work?
@@ -164,21 +168,22 @@ Reviews must be submitted on [Canvuas](https://umich.instructure.com/courses/707
 You should use [this template](SummaryTemplate.md) for writing your summary.
 Allocate enough time for your reading, discuss as a group, write the summary carefully, and finally, include key observations from the class discussion.
 
-You must read and review every assigned paper.
+You must read and review every assigned paper and bring questions to the lectures for discussions.
 
 ### Participation
 You are expected to attend all lectures (you may skip up to 2 lectures for legitimate reasons), and more importantly, participate in class discussions.
 
 ### Project
 You will complete substantive work an instructor-approved problem and have original contribution. 
-Surveys are not permitted as projects; instead, each project must contain a survey of background and related work. 
+Surveys are not sufficient as projects; instead, each project must contain a survey of background and related work. 
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
+(These dates are tentative and will be confirmed via Canvas assignments.)
 
 * Turn in a 2-page draft proposal (including references) by September 16. Remember to include the names and Michigan email addresses of the group members. 
 * Keep revising your initial idea and incorporate instructor feedback. However, your team and project proposal must be finalized and approved on or before September 30.
 * Each group must submit a 4-page mid-semester progress report and present mid-semester progress during class hours on the week of Nov 4.
 * **Each group must prepare for 5 to 15 minutes presentation for mid-semester progress during class hours on November 4**.
-* Each group must present their final results during a presentation starting on December 2.
+* Each group must present their final results during a presentation starting on December 4.
 * **Each group must turn in an 8-page final report and your code via email on or before 11:59PM EST on December 13.** The report must be submitted as a PDF file, with formatting similar to that of the papers you've read in the class. The self-contained (i.e., include ALL dependencies) code must be submitted as a zip file. Each zip file containing the code must include a README file with a step-by-step guide on how to compile and run the provided code.
 
 
