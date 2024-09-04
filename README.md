@@ -10,7 +10,7 @@ EECS589: Advanced Computer Networks (Fall 2024)
 | Member (uniqname) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Z. Morley Mao](http://eecs.umich.edu/~zmao) (zmao) | Faculty | 4629 BBB. By appointment and after each lecture |
-| [Xueshen Liu](https://luke20000429.github.io/) (liuxs) | GSI | BBB Learning Center. By appointment |
+| [Xueshen Liu](https://luke20000429.github.io/) (liuxs) | GSI | BBB Learning Center or [Zoom (passcode:20240111)](https://umich.zoom.us/j/4770432209). Thur. 13:00-14:00pm |
 
 ### Piazza
 
