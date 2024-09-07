@@ -92,13 +92,13 @@ The latest reading list is [linked here](ReadingList.md).
 |3| Sep 4 | Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))  |Xueshen | 
 |4| Sep 9 |  AI/ML for networks ([paper](https://arxiv.org/pdf/2402.02338))           |Prof. Mao | 
 |5| Sep 11 | LLM for security ([paper](https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf))              | Prof. Mao | 
-|6| Sep 16 |  Networking for AI/ML                          |  | 
+|6| Sep 16 |  AI/ML for networks, LLM for security                         |  | 
 |7| Sep 18 |  Networking for AI/ML                               |  | 
 |8| Sep 23 |  Network virtualization                               |  | 
 |9| Sep 25 | Mobile / Wireless networks                              |    | 
 |10| Sep 30 | Mobile / Wireless networks                              |    | 
-|11| Oct 2 |  Network security / privacy                              |    | 
-|12| Oct 7 |   Network security / privacy                               |    | 
+|11| Oct 2 |  Network security / privacy / blockchains                             |    | 
+|12| Oct 7 |   Network security / privacy  / blockchains                           |    | 
 |13| Oct 9 |    Network security / privacy                              |    | 
 || Oct 14 |  Fall study break        |    | 
 |14| Oct 16 |  Network measurement                              |    | 
