@@ -90,8 +90,8 @@ The latest reading list is [linked here](ReadingList.md).
 |2| Aug 28 |  Review of the networking basics      |Prof. Mao | 
 || Sep 2 |  Labor Day (holiday)       | | 
 |3| Sep 4 | Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))  |Xueshen | 
-|4| Sep 9 |  AI/ML for networks, LLM for security           |Prof. Mao | 
-|5| Sep 11 | AI/ML for networks,  LLM for security               |  | 
+|4| Sep 9 |  AI/ML for networks ([paper](https://arxiv.org/pdf/2402.02338))           |Prof. Mao | 
+|5| Sep 11 | LLM for security ([paper](https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf))              | Prof. Mao | 
 |6| Sep 16 |  Networking for AI/ML                          |  | 
 |7| Sep 18 |  Networking for AI/ML                               |  | 
 |8| Sep 23 |  Network virtualization                               |  | 
