@@ -103,12 +103,12 @@ The latest reading list is [linked here](ReadingList.md).
 || Oct 14 |  Fall study break        |    | 
 |14| Oct 16 |  Network measurement                              | Yijia Gao   | 
 |15| Oct 21 |  Network measurement                              |  Calvin Chan  | 
-|16| Oct 28 |  Data center networking                              | Ravi Bhatt, Jiyu Chen   | 
-|17| Oct 30 |  Data center networking                              | Efe Akinci, Rushil Talla   | 
+|16| Oct 28 |  Data center networking, Networking for Video games                     | Jiyu Chen, Ravi Bhatt| 
+|17| Oct 30 |  Data center networking, AI/ML                          | Efe Akinci, Rushil Talla   | 
 |18| Nov 4 |   Network QoS                  | Dhanya Narayanan   | 
 |19| Nov 6 |   Programming networks         |  Charles Cal  | 
 |20| Nov 11 |  Wireless sensing            | Joey Brewington   | 
-|21| Nov 13 |  Modeling networks               | Feiyu Wu, Jimmy Li  | 
+|21| Nov 13 |  Modeling networks, streaming applications ([NeRFHub](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879))               | Feiyu Wu, Zheng Jimmy Li  | 
 |22| Nov 18 |  Cloud systems              |  Chunhao Liao  | 
 |23| Nov 20 |  Network applications, e.g., vehicular networks                              | Ankith Palakodati  | 
 |24| Nov 25 |  Traffic engineering                              | Mitchell Chang   | 
