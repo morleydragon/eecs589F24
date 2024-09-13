@@ -92,7 +92,7 @@ The latest reading list is [linked here](ReadingList.md).
 |3| Sep 4 | Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))  |Xueshen | 
 |4| Sep 9 |  AI/ML for networks ([paper](https://arxiv.org/pdf/2402.02338))           |Prof. Mao | 
 |5| Sep 11 | LLM for security ([paper](https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf))              | Prof. Mao | 
-|6| Sep 16 |  AI/ML for networks, LLM for security                         | Jiarui Li | 
+|6| Sep 16 |  ML at scale ([QuickUpdate](https://www.usenix.org/conference/nsdi24/presentation/matam))    | Jiarui Li | 
 |7| Sep 18 |  Networking for AI/ML ([CacheGen](https://dl.acm.org/doi/pdf/10.1145/3651890.3672274))                         | Yu Han Yang | 
 |8| Sep 23 |  Network virtualization                               | Tao Wei | 
 |9| Sep 25 | Mobile / Wireless networks                              | Yoon Sung Ji  | 
