@@ -104,7 +104,7 @@ The latest reading list is [linked here](ReadingList.md).
 |14| Oct 16 |  Network measurement                              | Yijia Gao   | 
 |15| Oct 21 |  Network measurement                              |  Calvin Chan  | 
 |16| Oct 28 |  Data center networking, Networking for Video games                     | Jiyu Chen, Ravi Bhatt| 
-|17| Oct 30 |  Data center networking, AI/ML                          | Efe Akinci, Rushil Talla   | 
+|17| Oct 30 |  Data center networking, Neural WAN TE ([HARP](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final310-acmpaginated.pdf))   | Efe Akinci, Rushil Talla   | 
 |18| Nov 4 |   Network QoS                  | Dhanya Narayanan   | 
 |19| Nov 6 |   Programming networks         |  Charles Cal  | 
 |20| Nov 11 |  Wireless sensing            | Joey Brewington   | 
