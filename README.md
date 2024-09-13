@@ -92,28 +92,28 @@ The latest reading list is [linked here](ReadingList.md).
 |3| Sep 4 | Software defined Networks ([paper](https://storage.googleapis.com/gweb-research2023-media/pubtools/1002525.pdf))  |Xueshen | 
 |4| Sep 9 |  AI/ML for networks ([paper](https://arxiv.org/pdf/2402.02338))           |Prof. Mao | 
 |5| Sep 11 | LLM for security ([paper](https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf))              | Prof. Mao | 
-|6| Sep 16 |  AI/ML for networks, LLM for security                         |  | 
-|7| Sep 18 |  Networking for AI/ML                               |  | 
-|8| Sep 23 |  Network virtualization                               |  | 
-|9| Sep 25 | Mobile / Wireless networks                              |    | 
-|10| Sep 30 | Mobile / Wireless networks                              |    | 
-|11| Oct 2 |  Network security / privacy / blockchains                             |    | 
-|12| Oct 7 |   Network security / privacy  / blockchains                           |    | 
-|13| Oct 9 |    Network security / privacy                              |    | 
+|6| Sep 16 |  AI/ML for networks, LLM for security                         | Jiarui Li | 
+|7| Sep 18 |  Networking for AI/ML                               | Yu Han Yang | 
+|8| Sep 23 |  Network virtualization                               | Tao Wei | 
+|9| Sep 25 | Mobile / Wireless networks                              | Yoon Sung Ji  | 
+|10| Sep 30 | Mobile / Wireless networks                              | Robert Stanley   | 
+|11| Oct 2 |  Network security / privacy / blockchains                             | Erik Chi, Weiyuan Lyu   | 
+|12| Oct 7 |   Network security / privacy  / blockchains                           | Pratik Nadipelli   | 
+|13| Oct 9 |    Network security / privacy                              | Christine Zeng | 
 || Oct 14 |  Fall study break        |    | 
-|14| Oct 16 |  Network measurement                              |    | 
-|15| Oct 21 |  Network measurement                              |    | 
-|16| Oct 28 |  Data center networking                              |    | 
-|17| Oct 30 |  Data center networking                              |    | 
-|18| Nov 4 |   Network QoS                  |    | 
-|19| Nov 6 |   Programming networks         |    | 
-|20| Nov 11 |  Wireless sensing            |    | 
-|21| Nov 13 |  Modeling networks               |    | 
-|22| Nov 18 |  Cloud systems              |    | 
-|23| Nov 20 |  Network applications, e.g., vehicular networks                              |    | 
-|24| Nov 25 |  Traffic engineering                              |    | 
+|14| Oct 16 |  Network measurement                              | Yijia Gao   | 
+|15| Oct 21 |  Network measurement                              |  Calvin Chan  | 
+|16| Oct 28 |  Data center networking                              | Ravi Bhatt, Jiyu Chen   | 
+|17| Oct 30 |  Data center networking                              | Efe Akinci, Rushil Talla   | 
+|18| Nov 4 |   Network QoS                  | Dhanya Narayanan   | 
+|19| Nov 6 |   Programming networks         |  Charles Cal  | 
+|20| Nov 11 |  Wireless sensing            | Joey Brewington   | 
+|21| Nov 13 |  Modeling networks               | Feiyu Wu, Jimmy Li  | 
+|22| Nov 18 |  Cloud systems              |  Chunhao Liao  | 
+|23| Nov 20 |  Network applications, e.g., vehicular networks                              | Ankith Palakodati  | 
+|24| Nov 25 |  Traffic engineering                              | Mitchell Chang   | 
 |25| Nov 25 |     Thanksgiving break         | |
-|26| Dec 2 |   Verification / validation      |    | 
+|26| Dec 2 |   Verification / validation      | Zhengwei Wang | 
 |27| Dec 4 |  Final project presentations   |Students | 
 |28| Dec 9 |  Final project presentations   |Students | 
 
