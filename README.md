@@ -93,7 +93,7 @@ The latest reading list is [linked here](ReadingList.md).
 |4| Sep 9 |  AI/ML for networks ([paper](https://arxiv.org/pdf/2402.02338))           |Prof. Mao | 
 |5| Sep 11 | LLM for security ([paper](https://www.usenix.org/system/files/usenixsecurity24-liu-peiyu.pdf))              | Prof. Mao | 
 |6| Sep 16 |  AI/ML for networks, LLM for security                         | Jiarui Li | 
-|7| Sep 18 |  Networking for AI/ML                               | Yu Han Yang | 
+|7| Sep 18 |  Networking for AI/ML ([CacheGen](https://dl.acm.org/doi/pdf/10.1145/3651890.3672274))                         | Yu Han Yang | 
 |8| Sep 23 |  Network virtualization                               | Tao Wei | 
 |9| Sep 25 | Mobile / Wireless networks                              | Yoon Sung Ji  | 
 |10| Sep 30 | Mobile / Wireless networks                              | Robert Stanley   | 
@@ -179,7 +179,7 @@ Surveys are not sufficient as projects; instead, each project must contain a sur
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 (These dates are tentative and will be confirmed via Canvas assignments.)
 
-* Turn in a 2-page draft proposal (including references) by September 16. Remember to include the names and Michigan email addresses of the group members. 
+* Turn in a 2-page draft proposal (including references) by **September 23**. Remember to include the names and Michigan email addresses of the group members. 
 * Keep revising your initial idea and incorporate instructor feedback. However, your team and project proposal must be finalized and approved on or before September 30.
 * Each group must submit a 4-page mid-semester progress report and present mid-semester progress during class hours on the week of Nov 4.
 * **Each group must prepare for 5 to 15 minutes presentation for mid-semester progress during class hours on November 4**.
