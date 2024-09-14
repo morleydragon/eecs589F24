@@ -99,7 +99,7 @@ The latest reading list is [linked here](ReadingList.md).
 |10| Sep 30 | Mobile / Wireless networks                              | Robert Stanley   | 
 |11| Oct 2 |  Network security / privacy / blockchains                             | Erik Chi, Weiyuan Lyu   | 
 |12| Oct 7 |   Network security / privacy  / blockchains                           | Pratik Nadipelli   | 
-|13| Oct 9 |    Network security / privacy                              | Christine Zeng | 
+|13| Oct 9 |    Network security / privacy  /Censorship ([Fingerprinting-paper](https://www.usenix.org/conference/usenixsecurity24/presentation/xue-fingerprinting))                            | Christine Zeng, Wayne Wang | 
 || Oct 14 |  Fall study break        |    | 
 |14| Oct 16 |  Network measurement                              | Yijia Gao   | 
 |15| Oct 21 |  Network measurement                              |  Calvin Chan  | 
