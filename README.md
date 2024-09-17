@@ -175,6 +175,7 @@ You are expected to attend all lectures (you may skip up to 2 lectures for legit
 
 ### Project
 You will complete substantive work an instructor-approved problem and have original contribution. 
+[This doc](https://docs.google.com/document/d/1fjmfxW84lJFY-CQal0EGETEDBRXGnoPDr8xm5pSWOQo/edit) has some project ideas with support from grad students in Prof. Mao's lab who can provide additional information.
 Surveys are not sufficient as projects; instead, each project must contain a survey of background and related work. 
 You must meet the following milestones (unless otherwise specified in future announcements) to ensure a high-quality project at the end of the semester:
 (These dates are tentative and will be confirmed via Canvas assignments.)
