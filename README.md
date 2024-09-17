@@ -99,16 +99,16 @@ The latest reading list is [linked here](ReadingList.md).
 |10| Sep 30 | Mobile / Wireless networks                              | Robert Stanley   | 
 |11| Oct 2 |  Network security / privacy / blockchains                             | Erik Chi, Weiyuan Lyu   | 
 |12| Oct 7 |   Network security / privacy  / blockchains                           | Pratik Nadipelli   | 
-|13| Oct 9 |    Network security / privacy  /Censorship ([Fingerprinting-paper](https://www.usenix.org/conference/usenixsecurity24/presentation/xue-fingerprinting))                            | Christine Zeng, Wayne Wang | 
+|13| Oct 9 |    Network security / privacy  /Censorship (Wayne:[Fingerprinting-paper](https://www.usenix.org/conference/usenixsecurity24/presentation/xue-fingerprinting))                            | Christine Zeng, Wayne Wang | 
 || Oct 14 |  Fall study break        |    | 
-|14| Oct 16 |  Network measurement                              | Yijia Gao   | 
+|14| Oct 16 |  Network measurement, Scheduling data transfers (Daniel:[vPIFO](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final1052-acmpaginated.pdf))                              | Yijia Gao, Daniel Tian   | 
 |15| Oct 21 |  Network measurement                              |  Calvin Chan  | 
 |16| Oct 28 |  Data center networking, Networking for Video games                     | Jiyu Chen, Ravi Bhatt| 
-|17| Oct 30 |  Data center networking, Neural WAN TE ([HARP](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final310-acmpaginated.pdf))   | Efe Akinci, Rushil Talla   | 
+|17| Oct 30 |  Data center networking, Neural WAN TE (Rushil:[HARP](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final310-acmpaginated.pdf))   | Efe Akinci, Rushil Talla   | 
 |18| Nov 4 |   Network QoS                  | Dhanya Narayanan   | 
 |19| Nov 6 |   Programming networks         |  Charles Cal  | 
 |20| Nov 11 |  Wireless sensing            | Joey Brewington   | 
-|21| Nov 13 |  Modeling networks, streaming applications ([NeRFHub](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879))               | Feiyu Wu, Zheng Jimmy Li  | 
+|21| Nov 13 |  Modeling networks, streaming applications (Jimmy:[NeRFHub](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879))               | Feiyu Wu, Zheng Jimmy Li  | 
 |22| Nov 18 |  Cloud systems              |  Chunhao Liao  | 
 |23| Nov 20 |  Network applications, e.g., vehicular networks                              | Ankith Palakodati  | 
 |24| Nov 25 |  Traffic engineering                              | Mitchell Chang   | 
@@ -136,9 +136,8 @@ One or two students will present in each class depending on the paper assigned.
 Each student will be assigned to present a pair of papers once or twice
 throughout the semester. 
 
-Presentations should last **at most 45 minutes** without interruption.
+Presentations should last **about 45 minutes** without interruption.
 However, presenters should expect questions and interruptions throughout. 
-A sign-up form will be made available soon.
 
 In the presentation, you should:
 
@@ -147,6 +146,7 @@ In the presentation, you should:
 * Discuss technical details so that one can understand the key details without carefully reading it.
 * Explain the difference between this paper and related work.
 * Raise questions throughout the presentation to generate discussion.
+* Discuss the positive and negatives/limitations of the work.  Highlight opportunities for potential follow-up work.
 
 ### Paper Summaries
 Every student is required to review one to two papers assigned for each class.
