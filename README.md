@@ -149,7 +149,7 @@ In the presentation, you should:
 * Discuss the positive and negatives/limitations of the work.  Highlight opportunities for potential follow-up work.
 
 ### Paper Summaries
-Every student is required to review one to two papers assigned for each class.
+Every student is required to review one to two papers assigned for each class (except for the paper they present in class).
 One of these reviews can be brief, summarizing the main contributions of the paper and one critical assessment (e.g., how the paper could be improved, or compares to related work, or advances the state of the art).
 This brief review should be about a paragraph in length. 
 
