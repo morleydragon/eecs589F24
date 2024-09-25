@@ -107,7 +107,7 @@ The latest reading list is [linked here](ReadingList.md).
 |17| Oct 30 |  Data center networking, Neural WAN TE (Rushil:[HARP](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final310-acmpaginated.pdf))   | Efe Akinci, Rushil Talla   | 
 |18| Nov 4 |   Network QoS                  | Dhanya Narayanan   | 
 |19| Nov 6 |   Programming networks         |  Charles Cal  | 
-|20| Nov 11 |  Wireless sensing            | Joey Brewington   | 
+|20| Nov 11 |  Wireless sensing ([Radarize](https://arxiv.org/abs/2311.11260))           | Joey Brewington   | 
 |21| Nov 13 |  Modeling networks, streaming applications (Jimmy:[NeRFHub](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879))               | Feiyu Wu, Zheng Jimmy Li  | 
 |22| Nov 18 |  Cloud systems              |  Chunhao Liao  | 
 |23| Nov 20 |  Network applications, e.g., vehicular networks                              | Ankith Palakodati, Nikhil Sridhar  | 
