@@ -96,7 +96,7 @@ The latest reading list is [linked here](ReadingList.md).
 |7| Sep 18 |  Networking for AI/ML ([CacheGen](https://dl.acm.org/doi/pdf/10.1145/3651890.3672274))                         | Prof. Mao | 
 |8| Sep 23 |  Network virtualization ([NetEdit](https://dl.acm.org/doi/pdf/10.1145/3651890.3672227))                        | Tao Wei | 
 |9| Sep 25 | Mobile / Wireless networks  ([5G study](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final1021-acmpaginated.pdf))    | Yoon Sung Ji  | 
-|10| Sep 30 | Mobile / Wireless networks                              | Robert Stanley   | 
+|10| Sep 30 | Mobile / Wireless networks ([5G Carrier Aggregation](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final610-acmpaginated.pdf))                             | Robert Stanley   | 
 |11| Oct 2 |  Network security / privacy (Weiyuan:[VPNChecker](https://dl.acm.org/doi/10.1145/3589334.3645552))/ blockchains / Censorship(Erik:[GFW paper](https://www.usenix.org/conference/usenixsecurity23/presentation/wu-mingshi))                          | Erik Chi, Weiyuan Lyu   | 
 |12| Oct 7 |   Network security / privacy  / blockchains                           | Pratik Nadipelli   | 
 |13| Oct 9 |    Network security / (Christine:[BEAM](https://www.usenix.org/conference/usenixsecurity24/presentation/chen-yihao))  (Wayne:[Fingerprinting-paper](https://www.usenix.org/conference/usenixsecurity24/presentation/xue-fingerprinting))                            | Christine Zeng, Wayne Wang | 
