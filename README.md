@@ -85,7 +85,7 @@ Papers to be selected from but not limited to:
 The latest reading list is [linked here](ReadingList.md).
 
 |#| Date      | Topic and Readings                       | Presenter|
-|--|---------|----------------------------------------|---------| 
+|--|-----------|----------------------------------------|---------| 
 |1 | Aug 26      | **Background:Internet philosophy**                 | Prof. Mao | 
 |2| Aug 28 |  Review of the networking basics      |Prof. Mao | 
 || Sep 2 |  Labor Day (holiday)       | | 
