@@ -103,7 +103,7 @@ The latest reading list is [linked here](ReadingList.md).
 || Oct 14 |  Fall study break        |    | 
 |14| Oct 16 |  Network measurement, Scheduling data transfers (Daniel:[vPIFO](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final1052-acmpaginated.pdf))                              | Yijia Gao, Daniel Tian   | 
 |15| Oct 21 |  Network measurement                              |  Calvin Chan  | 
-|16| Oct 28 |  Data center networking, Networking for Video games                     | Jiyu Chen, Ravi Bhatt| 
+|16| Oct 28 |  Data center networking, Networking for Video games (Ravi:[ZGaming](https://dl.acm.org/doi/10.1145/3603269.3604819))      | Jiyu Chen, Ravi Bhatt| 
 |17| Oct 30 |  Data center networking, Neural WAN TE (Rushil:[HARP](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final310-acmpaginated.pdf))   | Efe Akinci, Rushil Talla   | 
 |18| Nov 4 |   Network QoS                  | Dhanya Narayanan   | 
 |19| Nov 6 |   Programming networks         |  Charles Cal  | 
