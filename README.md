@@ -110,7 +110,7 @@ The latest reading list is [linked here](ReadingList.md).
 |20| Nov 11 |  Wireless sensing ([Radarize](https://arxiv.org/abs/2311.11260))           | Joey Brewington   | 
 |21| Nov 13 |  Modeling networks, streaming applications (Fei:[Klonet](https://www.usenix.org/system/files/nsdi24-ma.pdf)) (Jimmy:[NeRFHub](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879))               | Fei Wu, Zheng Jimmy Li  | 
 |22| Nov 18 |  Cloud systems ([Cloudy](https://www.usenix.org/conference/nsdi24/presentation/friess))              |  Chunhao Liao  | 
-|23| Nov 20 |  Network applications, e.g., vehicular networks                              | Ankith Palakodati, Nikhil Sridhar  | 
+|23| Nov 20 |  Network applications, e.g., vehicular networks ([Survey](https://drive.google.com/file/d/1IytZHjo6iwDtkh_LdW4Xo9b1EpKZfVVT/view?usp=sharing))                             | Ankith Palakodati, Nikhil Sridhar  | 
 |24| Nov 25 |  Traffic engineering  ([Effingo](https://dl.acm.org/doi/pdf/10.1145/3651890.3672262))       | Mitchell Chang   | 
 |25| Nov 25 |     Thanksgiving break         | |
 |26| Dec 2 |   Verification / validation      | Zhengwei Wang | 
