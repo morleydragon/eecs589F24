@@ -101,7 +101,7 @@ The latest reading list is [linked here](ReadingList.md).
 |12| Oct 7 |   Network security / privacy  / blockchains ([ConfMask](https://charlie-xiao.github.io/assets/pdf/projects/confmask.pdf))                           | Pratik Nadipelli   | 
 |13| Oct 9 |    Network security / (Christine:[BEAM](https://www.usenix.org/conference/usenixsecurity24/presentation/chen-yihao))  (Wayne:[TSPU](https://dl.acm.org/doi/abs/10.1145/3517745.3561461))                            | Christine Zeng, Wayne Wang | 
 || Oct 14 |  Fall study break        |    | 
-|14| Oct 16 |  Network measurement, Scheduling data transfers (Daniel:[vPIFO](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final1052-acmpaginated.pdf))                              | Yijia Gao, Daniel Tian   | 
+|14| Oct 16 |  Network measurement, Scheduling data transfers (Yijia:[IPD](https://dl.acm.org/doi/pdf/10.1145/3651890.3672232)), (Daniel:[vPIFO](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final1052-acmpaginated.pdf))                              | Yijia Gao, Daniel Tian   | 
 |15| Oct 21 |  Network measurement                              |  Calvin Chan  | 
 |16| Oct 28 |  Data center networking, Networking for Video games (Ravi:[ZGaming](https://dl.acm.org/doi/10.1145/3603269.3604819))      | Jiyu Chen, Ravi Bhatt| 
 |17| Oct 30 |  Data center networking, Neural WAN TE (Rushil:[HARP](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final310-acmpaginated.pdf))   | Efe Akinci, Rushil Talla   | 
