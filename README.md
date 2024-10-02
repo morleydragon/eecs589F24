@@ -111,7 +111,7 @@ The latest reading list is [linked here](ReadingList.md).
 |21| Nov 13 |  Modeling networks, streaming applications (Jimmy:[NeRFHub](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879))               | Feiyu Wu, Zheng Jimmy Li  | 
 |22| Nov 18 |  Cloud systems              |  Chunhao Liao  | 
 |23| Nov 20 |  Network applications, e.g., vehicular networks                              | Ankith Palakodati, Nikhil Sridhar  | 
-|24| Nov 25 |  Traffic engineering  ([Effingo]([https://dl.acm.org/doi/pdf/10.1145/3651890.3672262))       | Mitchell Chang   | 
+|24| Nov 25 |  Traffic engineering  ([Effingo](https://dl.acm.org/doi/pdf/10.1145/3651890.3672262))       | Mitchell Chang   | 
 |25| Nov 25 |     Thanksgiving break         | |
 |26| Dec 2 |   Verification / validation      | Zhengwei Wang | 
 |27| Dec 4 |  Final project presentations   |Students | 
