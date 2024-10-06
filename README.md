@@ -104,7 +104,7 @@ The latest reading list is [linked here](ReadingList.md).
 |14| Oct 16 |   Scheduling data transfers  ([vPIFO](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final1052-acmpaginated.pdf))                              |  Daniel Tian   | 
 |15| Oct 21 |  Network measurement ([IPD](https://dl.acm.org/doi/pdf/10.1145/3651890.3672232))                             |  Yijia Gao | 
 |16| Oct 28 |  Data center networking, Networking for Video games (Jiyu:[RD-Probe](https://dl.acm.org/doi/abs/10.1145/3651890.3672256)) (Ravi:[ZGaming](https://dl.acm.org/doi/10.1145/3603269.3604819))      | Jiyu Chen, Ravi Bhatt| 
-|17| Oct 30 |  Data center networking, Neural WAN TE (Rushil:[HARP](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final310-acmpaginated.pdf))   | Efe Akinci, Rushil Talla   | 
+|17| Oct 30 |  Data center networking, Neural WAN TE (Efe:[DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) (Rushil:[HARP](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final310-acmpaginated.pdf))   | Efe Akinci, Rushil Talla   | 
 |18| Nov 4 |   Network QoS   ([SODA](https://dl.acm.org/doi/pdf/10.1145/3651890.3672260))       | Dhanya Narayanan   | 
 |19| Nov 6 |   Programming networks  ([Maestro](https://www.usenix.org/conference/nsdi24/presentation/pereira))  |  Charles Cal  | 
 |20| Nov 11 |  Wireless sensing ([Radarize](https://arxiv.org/abs/2311.11260))           | Joey Brewington   | 
