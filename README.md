@@ -103,19 +103,20 @@ The latest reading list is [linked here](ReadingList.md).
 || Oct 14 |  Fall study break        |    | 
 |14| Oct 16 |   Scheduling data transfers  ([vPIFO](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final1052-acmpaginated.pdf))                              |  Daniel Tian   | 
 |15| Oct 21 |  Network measurement ([IPD](https://dl.acm.org/doi/pdf/10.1145/3651890.3672232))                             |  Yijia Gao | 
-|16| Oct 28 |  Data center networking, Networking for Video games (Jiyu:[RD-Probe](https://dl.acm.org/doi/abs/10.1145/3651890.3672256)) (Ravi:[ZGaming](https://dl.acm.org/doi/10.1145/3603269.3604819))      | Jiyu Chen, Ravi Bhatt| 
-|17| Oct 30 |  Data center networking, Neural WAN TE (Efe:[DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) (Rushil:[HARP](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final310-acmpaginated.pdf))   | Efe Akinci, Rushil Talla   | 
-|18| Nov 4 |   Network QoS   ([SODA](https://dl.acm.org/doi/pdf/10.1145/3651890.3672260))       | Dhanya Narayanan   | 
-|19| Nov 6 |   Programming networks  ([Maestro](https://www.usenix.org/conference/nsdi24/presentation/pereira))  |  Charles Cal  | 
-|20| Nov 11 |  Wireless sensing ([Radarize](https://arxiv.org/abs/2311.11260))           | Joey Brewington   | 
-|21| Nov 13 |  Modeling networks, streaming applications (Fei:[Klonet](https://www.usenix.org/system/files/nsdi24-ma.pdf)) (Jimmy:[NeRFHub](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879))               | Fei Wu, Zheng Jimmy Li  | 
-|22| Nov 18 |  Cloud systems ([Cloudy](https://www.usenix.org/conference/nsdi24/presentation/friess))              |  Chunhao Liao  | 
-|23| Nov 20 |  Network applications, e.g., vehicular networks (Ankith:[Survey](https://drive.google.com/file/d/1IytZHjo6iwDtkh_LdW4Xo9b1EpKZfVVT/view?usp=sharing)) Nik:([VRF](https://dl.acm.org/doi/pdf/10.1145/3643832.3661874))                             | Ankith Palakodati, Nikhil Sridhar  | 
-|24| Nov 25 |  Traffic engineering  ([Effingo](https://dl.acm.org/doi/pdf/10.1145/3651890.3672262))       | Mitchell Chang   | 
+|16| Oct 23 | Data center networking (Jiyu:[RD-Probe](https://dl.acm.org/doi/abs/10.1145/3651890.3672256)) | Jiyu Chen |
+|17| Oct 28 |   Networking for Video games (Ravi:[ZGaming](https://dl.acm.org/doi/10.1145/3603269.3604819))      | Ravi Bhatt| 
+|18| Oct 30 |  Data center networking, Neural WAN TE (Efe:[DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) (Rushil:[HARP](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final310-acmpaginated.pdf))   | Efe Akinci, Rushil Talla   | 
+|19| Nov 4 |   Network QoS   ([SODA](https://dl.acm.org/doi/pdf/10.1145/3651890.3672260))       | Dhanya Narayanan   | 
+|20| Nov 6 |   Programming networks  ([Maestro](https://www.usenix.org/conference/nsdi24/presentation/pereira))  |  Charles Cal  | 
+|21| Nov 11 |  Wireless sensing ([Radarize](https://arxiv.org/abs/2311.11260))           | Joey Brewington   | 
+|22| Nov 13 |  Modeling networks, streaming applications (Fei:[Klonet](https://www.usenix.org/system/files/nsdi24-ma.pdf)) (Jimmy:[NeRFHub](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879))               | Fei Wu, Zheng Jimmy Li  | 
+|23| Nov 18 |  Cloud systems ([Cloudy](https://www.usenix.org/conference/nsdi24/presentation/friess))              |  Chunhao Liao  | 
+|24| Nov 20 |  Network applications, e.g., vehicular networks (Ankith:[Survey](https://drive.google.com/file/d/1IytZHjo6iwDtkh_LdW4Xo9b1EpKZfVVT/view?usp=sharing)) Nik:([VRF](https://dl.acm.org/doi/pdf/10.1145/3643832.3661874))                             | Ankith Palakodati, Nikhil Sridhar  | 
+|25| Nov 25 |  Traffic engineering  ([Effingo](https://dl.acm.org/doi/pdf/10.1145/3651890.3672262))       | Mitchell Chang   | 
 || Nov 25 |     Thanksgiving break         | |
-|25| Dec 2 |   Verification / validation ([Causal update](https://dl.acm.org/doi/pdf/10.1145/3651890.3672266))     | Zhengwei Wang | 
-|26| Dec 4 |  Final project presentations   |Students | 
-|27| Dec 9 |  Final project presentations   |Students | 
+|26| Dec 2 |   Verification / validation ([Causal update](https://dl.acm.org/doi/pdf/10.1145/3651890.3672266))     | Zhengwei Wang | 
+|27| Dec 4 |  Final project presentations   |Students | 
+|28| Dec 9 |  Final project presentations   |Students | 
 
 
 ## Grading
