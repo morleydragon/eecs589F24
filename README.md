@@ -108,8 +108,8 @@ The latest reading list is [linked here](ReadingList.md).
 |18| Oct 30 |  Data center networking, Neural WAN TE (Efe:[DBO](https://dl.acm.org/doi/10.1145/3603269.3604871)) (Rushil:[HARP](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final310-acmpaginated.pdf))   | Efe Akinci, Rushil Talla   | 
 |19| Nov 4 |   Network QoS ([SODA](https://dl.acm.org/doi/pdf/10.1145/3651890.3672260)), Wireless sensing (Joey:[Radarize](https://arxiv.org/abs/2311.11260))      | Dhanya Narayanan, Joey Brewington| 
 |20| Nov 6 |   Programming networks  ([Maestro](https://www.usenix.org/conference/nsdi24/presentation/pereira)), Modeling networks, streaming applications (Fei:[Klonet](https://www.usenix.org/system/files/nsdi24-ma.pdf))   |  Charles Cal, Fei Wu  | 
-|21| Nov 11 | **Project mid-semester update**             | TBD | 
-|22| Nov 13 | **Project mid-semester update**              | TBD | 
+|21| Nov 11 | **Project mid-semester update**             | Groups 2, 8, 7, 9, 6 ([sign-up](https://docs.google.com/spreadsheets/d/1NOGCtEWl7n7-R_Dic654CEhdHUxRnWdtV2jxJr9tA28/edit?gid=0#gid=0))| 
+|22| Nov 13 | **Project mid-semester update**              | Groups 10, 3, 5, 4, 1 ([sign-up](https://docs.google.com/spreadsheets/d/1NOGCtEWl7n7-R_Dic654CEhdHUxRnWdtV2jxJr9tA28/edit?gid=0#gid=0))| 
 |23| Nov 18 |  Cloud systems ([Cloudy](https://www.usenix.org/conference/nsdi24/presentation/friess)) (Jimmy:[NeRFHub](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879))              |  Chunhao Liao, Zheng Jimmy Li  | 
 |24| Nov 20 |  Network applications, e.g., vehicular networks (Ankith:[Survey](https://drive.google.com/file/d/1IytZHjo6iwDtkh_LdW4Xo9b1EpKZfVVT/view?usp=sharing)) Nik:([VRF](https://dl.acm.org/doi/pdf/10.1145/3643832.3661874))                             | Ankith Palakodati, Nikhil Sridhar  | 
 |25| Nov 25 |  Traffic engineering  ([Effingo](https://dl.acm.org/doi/pdf/10.1145/3651890.3672262))       | Mitchell Chang   | 
