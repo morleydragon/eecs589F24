@@ -115,8 +115,8 @@ The latest reading list is [linked here](ReadingList.md).
 |25| Nov 25 |  NO CLASS (Please work on your projects)      | N/A  | 
 || Nov 25 |     Thanksgiving break         | |
 |26| Dec 2 |   Verification / validation ([Causal update](https://dl.acm.org/doi/pdf/10.1145/3651890.3672266)), Traffic engineering  ([Effingo](https://dl.acm.org/doi/pdf/10.1145/3651890.3672262))      | Zhengwei Wang,  Mitchell Chang | 
-|27| Dec 4 |  Final project presentations   |Students | 
-|28| Dec 9 |  Final project presentations   |Students | 
+|27| Dec 4 |  Final project presentations    | Groups 1,4,5,3,10 ([sign-up](https://docs.google.com/spreadsheets/d/1NOGCtEWl7n7-R_Dic654CEhdHUxRnWdtV2jxJr9tA28/edit?gid=0#gid=0))| 
+|28| Dec 9 |  Final project presentations    | Groups 6,8,7,8,2 ([sign-up](https://docs.google.com/spreadsheets/d/1NOGCtEWl7n7-R_Dic654CEhdHUxRnWdtV2jxJr9tA28/edit?gid=0#gid=0))| 
 
 
 ## Grading
